@@ -9,7 +9,7 @@ phone_number: '5857336042'
 salary: '300000'
 rate: '80'
 output_filename: output.csv
-blacklist: ['sevenrooms', 'trepp, inc.']
+blacklist: ['sevenrooms', 'trepp, inc.', 'appfolio']
 blackListTitles: []
 uploads:
   Resume: /Users/nitinjain/personal_src/LinkedIn-Easy-Apply-Bot/NitinJainResume.pdf
