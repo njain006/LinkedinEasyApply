@@ -6,7 +6,7 @@ locations:
 username: 'nitinj025@gmail.com'
 password: '<password>'
 phone_number: '5857336042'
-salary: '200000'
+salary: '300000'
 rate: '80'
 output_filename: output.csv
 blacklist: ['sevenrooms', 'trepp, inc.']
