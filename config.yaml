@@ -3,14 +3,14 @@ positions:
 locations:
   - United States
   - Canada
-username: 'nitinj025@gmail.com'
+username: '<username>'
 password: '<password>'
 phone_number: '5857336042'
 salary: '300000'
 rate: '80'
-output_filename: output1.csv
-blacklist: ['sevenrooms', 'trepp, inc.', 'appfolio']
+output_filename: output.csv
+blacklist: [ ]
 blackListTitles: []
 uploads:
-  Resume: /Users/nitinjain/personal_src/LinkedIn-Easy-Apply-Bot/NitinJainResume.pdf
+  Resume: Resume.pdf
   #Cover Letter: /path/to/cover_letter.pdf
