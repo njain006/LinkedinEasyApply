@@ -1,0 +1,16 @@
+positions:
+  - Data Engineer
+locations:
+  - United States
+  - Canada
+username: 'nitinj025@gmail.com'
+password: '<password>'
+phone_number: '5857336042'
+salary: '200000'
+rate: '80'
+output_filename: output.csv
+blacklist: ['sevenrooms', 'trepp, inc.']
+blackListTitles: []
+uploads:
+  Resume: /Users/nitinjain/personal_src/LinkedIn-Easy-Apply-Bot/NitinJainResume.pdf
+  #Cover Letter: /path/to/cover_letter.pdf
