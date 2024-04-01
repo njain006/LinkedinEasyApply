@@ -27,7 +27,7 @@ timestamp = data['timestamp']
 visitor_id = data['visitorId']
 unique_id = data['uniqueId']
 
-# Printing the values
+# Printing the values for applying
 print("App ID:", app_id)
 print("App Name:", app_name)
 print("Platform:", platform)
