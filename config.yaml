@@ -5,7 +5,7 @@ locations:
   - Canada
 username: '<username>'
 password: '<password>'
-phone_number: '5857336042'
+phone_number: '<>'
 salary: '300000'
 rate: '80'
 output_filename: output.csv
